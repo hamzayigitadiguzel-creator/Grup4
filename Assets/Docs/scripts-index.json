@@ -1,0 +1,1102 @@
+﻿{
+    "generatedAtUtc": "2026-01-02T18:41:14.4611217Z",
+    "root": "Assets/Scripts",
+    "files": [
+        {
+            "path": "Assets/Scripts/Configuration/Generation/GenerationConfig.cs",
+            "name": "GenerationConfig.cs",
+            "folder": "Assets/Scripts/Configuration/Generation"
+        },
+        {
+            "path": "Assets/Scripts/Configuration/Generation/PoolsConfig.cs",
+            "name": "PoolsConfig.cs",
+            "folder": "Assets/Scripts/Configuration/Generation"
+        },
+        {
+            "path": "Assets/Scripts/Configuration/Seed/DaySeedConfig.cs",
+            "name": "DaySeedConfig.cs",
+            "folder": "Assets/Scripts/Configuration/Seed"
+        },
+        {
+            "path": "Assets/Scripts/Core/Camera/CameraLockManager.cs",
+            "name": "CameraLockManager.cs",
+            "folder": "Assets/Scripts/Core/Camera"
+        },
+        {
+            "path": "Assets/Scripts/Core/Container/ContainerDecisionHandler.cs",
+            "name": "ContainerDecisionHandler.cs",
+            "folder": "Assets/Scripts/Core/Container"
+        },
+        {
+            "path": "Assets/Scripts/Core/Container/ContainerLifecycleManager.cs",
+            "name": "ContainerLifecycleManager.cs",
+            "folder": "Assets/Scripts/Core/Container"
+        },
+        {
+            "path": "Assets/Scripts/Core/Container/ContainerPlacementCoordinator.cs",
+            "name": "ContainerPlacementCoordinator.cs",
+            "folder": "Assets/Scripts/Core/Container"
+        },
+        {
+            "path": "Assets/Scripts/Core/Controllers/Day01PrototypeController.cs",
+            "name": "Day01PrototypeController.cs",
+            "folder": "Assets/Scripts/Core/Controllers"
+        },
+        {
+            "path": "Assets/Scripts/Core/Data/ShipDefinition.cs",
+            "name": "ShipDefinition.cs",
+            "folder": "Assets/Scripts/Core/Data"
+        },
+        {
+            "path": "Assets/Scripts/Core/GameFlow/GameFlowStateMachine.cs",
+            "name": "GameFlowStateMachine.cs",
+            "folder": "Assets/Scripts/Core/GameFlow"
+        },
+        {
+            "path": "Assets/Scripts/Core/GameFlow/GameState.cs",
+            "name": "GameState.cs",
+            "folder": "Assets/Scripts/Core/GameFlow"
+        },
+        {
+            "path": "Assets/Scripts/Core/GameFlow/StateTransitionHandler.cs",
+            "name": "StateTransitionHandler.cs",
+            "folder": "Assets/Scripts/Core/GameFlow"
+        },
+        {
+            "path": "Assets/Scripts/Core/Initialization/GameInitializer.cs",
+            "name": "GameInitializer.cs",
+            "folder": "Assets/Scripts/Core/Initialization"
+        },
+        {
+            "path": "Assets/Scripts/Core/Initialization/InitializationResult.cs",
+            "name": "InitializationResult.cs",
+            "folder": "Assets/Scripts/Core/Initialization"
+        },
+        {
+            "path": "Assets/Scripts/Core/Initialization/ManagerFactory.cs",
+            "name": "ManagerFactory.cs",
+            "folder": "Assets/Scripts/Core/Initialization"
+        },
+        {
+            "path": "Assets/Scripts/Core/Initialization/SceneReferencesProvider.cs",
+            "name": "SceneReferencesProvider.cs",
+            "folder": "Assets/Scripts/Core/Initialization"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interaction/InteractionPoint.cs",
+            "name": "InteractionPoint.cs",
+            "folder": "Assets/Scripts/Core/Interaction"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/IHUDView.cs",
+            "name": "IHUDView.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/IInteractable.cs",
+            "name": "IInteractable.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/IInteractionHost.cs",
+            "name": "IInteractionHost.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/IShipService.cs",
+            "name": "IShipService.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/ISpawner.cs",
+            "name": "ISpawner.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/ITaskRule.cs",
+            "name": "ITaskRule.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Interfaces/IWorkstationView.cs",
+            "name": "IWorkstationView.cs",
+            "folder": "Assets/Scripts/Core/Interfaces"
+        },
+        {
+            "path": "Assets/Scripts/Core/Placement/PlacementZone.cs",
+            "name": "PlacementZone.cs",
+            "folder": "Assets/Scripts/Core/Placement"
+        },
+        {
+            "path": "Assets/Scripts/Core/Player/PlayerController.cs",
+            "name": "PlayerController.cs",
+            "folder": "Assets/Scripts/Core/Player"
+        },
+        {
+            "path": "Assets/Scripts/Core/Pooling/ObjectPool.cs",
+            "name": "ObjectPool.cs",
+            "folder": "Assets/Scripts/Core/Pooling"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipContainerSpawner.cs",
+            "name": "ShipContainerSpawner.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipDecisionHandler.cs",
+            "name": "ShipDecisionHandler.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipInstance.cs",
+            "name": "ShipInstance.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipLifecycleCoordinator.cs",
+            "name": "ShipLifecycleCoordinator.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipManager.cs",
+            "name": "ShipManager.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipMovement.cs",
+            "name": "ShipMovement.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Ship/ShipState.cs",
+            "name": "ShipState.cs",
+            "folder": "Assets/Scripts/Core/Ship"
+        },
+        {
+            "path": "Assets/Scripts/Core/Spawning/ContainerSpawner.cs",
+            "name": "ContainerSpawner.cs",
+            "folder": "Assets/Scripts/Core/Spawning"
+        },
+        {
+            "path": "Assets/Scripts/Data/Generated/ContainerData.cs",
+            "name": "ContainerData.cs",
+            "folder": "Assets/Scripts/Data/Generated"
+        },
+        {
+            "path": "Assets/Scripts/Data/Generated/ShipData.cs",
+            "name": "ShipData.cs",
+            "folder": "Assets/Scripts/Data/Generated"
+        },
+        {
+            "path": "Assets/Scripts/Data/Models/PresentationTuning.cs",
+            "name": "PresentationTuning.cs",
+            "folder": "Assets/Scripts/Data/Models"
+        },
+        {
+            "path": "Assets/Scripts/Data/Records/DecisionRecord.cs",
+            "name": "DecisionRecord.cs",
+            "folder": "Assets/Scripts/Data/Records"
+        },
+        {
+            "path": "Assets/Scripts/Data/Structs/ContainerFields.cs",
+            "name": "ContainerFields.cs",
+            "folder": "Assets/Scripts/Data/Structs"
+        },
+        {
+            "path": "Assets/Scripts/Data/Structs/PrototypeStats.cs",
+            "name": "PrototypeStats.cs",
+            "folder": "Assets/Scripts/Data/Structs"
+        },
+        {
+            "path": "Assets/Scripts/Editor/DevLogWindow.cs",
+            "name": "DevLogWindow.cs",
+            "folder": "Assets/Scripts/Editor"
+        },
+        {
+            "path": "Assets/Scripts/Generators/ContainerGenerator.cs",
+            "name": "ContainerGenerator.cs",
+            "folder": "Assets/Scripts/Generators"
+        },
+        {
+            "path": "Assets/Scripts/Generators/GenerationOrchestrator.cs",
+            "name": "GenerationOrchestrator.cs",
+            "folder": "Assets/Scripts/Generators"
+        },
+        {
+            "path": "Assets/Scripts/Generators/PlacementRuleGenerator.cs",
+            "name": "PlacementRuleGenerator.cs",
+            "folder": "Assets/Scripts/Generators"
+        },
+        {
+            "path": "Assets/Scripts/Generators/ShipGenerator.cs",
+            "name": "ShipGenerator.cs",
+            "folder": "Assets/Scripts/Generators"
+        },
+        {
+            "path": "Assets/Scripts/Generators/TaskRuleGenerator.cs",
+            "name": "TaskRuleGenerator.cs",
+            "folder": "Assets/Scripts/Generators"
+        },
+        {
+            "path": "Assets/Scripts/Managers/Decision/DecisionManager.cs",
+            "name": "DecisionManager.cs",
+            "folder": "Assets/Scripts/Managers/Decision"
+        },
+        {
+            "path": "Assets/Scripts/Managers/Deck/DeckManager.cs",
+            "name": "DeckManager.cs",
+            "folder": "Assets/Scripts/Managers/Deck"
+        },
+        {
+            "path": "Assets/Scripts/Presentation/Factories/ContainerPresentationFactory.cs",
+            "name": "ContainerPresentationFactory.cs",
+            "folder": "Assets/Scripts/Presentation/Factories"
+        },
+        {
+            "path": "Assets/Scripts/Presentation/Managers/ContainerPresentationManager.cs",
+            "name": "ContainerPresentationManager.cs",
+            "folder": "Assets/Scripts/Presentation/Managers"
+        },
+        {
+            "path": "Assets/Scripts/Presentation/Models/ContainerPresentation.cs",
+            "name": "ContainerPresentation.cs",
+            "folder": "Assets/Scripts/Presentation/Models"
+        },
+        {
+            "path": "Assets/Scripts/Presentation/Views/ContainerViewController.cs",
+            "name": "ContainerViewController.cs",
+            "folder": "Assets/Scripts/Presentation/Views"
+        },
+        {
+            "path": "Assets/Scripts/Rules/Runtime/CompositeRule.cs",
+            "name": "CompositeRule.cs",
+            "folder": "Assets/Scripts/Rules/Runtime"
+        },
+        {
+            "path": "Assets/Scripts/Rules/Runtime/PlacementRuleData.cs",
+            "name": "PlacementRuleData.cs",
+            "folder": "Assets/Scripts/Rules/Runtime"
+        },
+        {
+            "path": "Assets/Scripts/Rules/Runtime/RuleCondition.cs",
+            "name": "RuleCondition.cs",
+            "folder": "Assets/Scripts/Rules/Runtime"
+        },
+        {
+            "path": "Assets/Scripts/UI/Coordination/GameUICoordinator.cs",
+            "name": "GameUICoordinator.cs",
+            "folder": "Assets/Scripts/UI/Coordination"
+        },
+        {
+            "path": "Assets/Scripts/UI/Coordination/HUDUIController.cs",
+            "name": "HUDUIController.cs",
+            "folder": "Assets/Scripts/UI/Coordination"
+        },
+        {
+            "path": "Assets/Scripts/UI/Coordination/WorkstationUIController.cs",
+            "name": "WorkstationUIController.cs",
+            "folder": "Assets/Scripts/UI/Coordination"
+        },
+        {
+            "path": "Assets/Scripts/UI/Views/DevOverlayUI.cs",
+            "name": "DevOverlayUI.cs",
+            "folder": "Assets/Scripts/UI/Views"
+        },
+        {
+            "path": "Assets/Scripts/UI/Views/HUDView.cs",
+            "name": "HUDView.cs",
+            "folder": "Assets/Scripts/UI/Views"
+        },
+        {
+            "path": "Assets/Scripts/UI/Views/PrototypeUI.cs",
+            "name": "PrototypeUI.cs",
+            "folder": "Assets/Scripts/UI/Views"
+        },
+        {
+            "path": "Assets/Scripts/UI/WorldSpaceUIAdapter.cs",
+            "name": "WorldSpaceUIAdapter.cs",
+            "folder": "Assets/Scripts/UI"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Constants/GameConstants.cs",
+            "name": "GameConstants.cs",
+            "folder": "Assets/Scripts/Utilities/Constants"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Constants/UIConstants.cs",
+            "name": "UIConstants.cs",
+            "folder": "Assets/Scripts/Utilities/Constants"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Debug/DevModeManager.cs",
+            "name": "DevModeManager.cs",
+            "folder": "Assets/Scripts/Utilities/Debug"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Debug/DevRunSeedOverride.cs",
+            "name": "DevRunSeedOverride.cs",
+            "folder": "Assets/Scripts/Utilities/Debug"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Random/DeterministicRng.cs",
+            "name": "DeterministicRng.cs",
+            "folder": "Assets/Scripts/Utilities/Random"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Time/DayTimer.cs",
+            "name": "DayTimer.cs",
+            "folder": "Assets/Scripts/Utilities/Time"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/UI/UIButtonHelper.cs",
+            "name": "UIButtonHelper.cs",
+            "folder": "Assets/Scripts/Utilities/UI"
+        },
+        {
+            "path": "Assets/Scripts/Utilities/Validation/DeterminismValidator.cs",
+            "name": "DeterminismValidator.cs",
+            "folder": "Assets/Scripts/Utilities/Validation"
+        }
+    ],
+    "tree": {
+        "name": "Scripts",
+        "type": "folder",
+        "path": "Assets/Scripts",
+        "children": [
+            {
+                "name": "Configuration",
+                "type": "folder",
+                "path": "Assets/Scripts/Configuration",
+                "children": [
+                    {
+                        "name": "Generation",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Configuration/Generation",
+                        "children": [
+                            {
+                                "name": "GenerationConfig.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Configuration/Generation/GenerationConfig.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "PoolsConfig.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Configuration/Generation/PoolsConfig.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seed",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Configuration/Seed",
+                        "children": [
+                            {
+                                "name": "DaySeedConfig.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Configuration/Seed/DaySeedConfig.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Core",
+                "type": "folder",
+                "path": "Assets/Scripts/Core",
+                "children": [
+                    {
+                        "name": "Camera",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Camera",
+                        "children": [
+                            {
+                                "name": "CameraLockManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Camera/CameraLockManager.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Container",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Container",
+                        "children": [
+                            {
+                                "name": "ContainerDecisionHandler.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Container/ContainerDecisionHandler.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ContainerLifecycleManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Container/ContainerLifecycleManager.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ContainerPlacementCoordinator.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Container/ContainerPlacementCoordinator.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Controllers",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Controllers",
+                        "children": [
+                            {
+                                "name": "Day01PrototypeController.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Controllers/Day01PrototypeController.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Data",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Data",
+                        "children": [
+                            {
+                                "name": "ShipDefinition.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Data/ShipDefinition.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GameFlow",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/GameFlow",
+                        "children": [
+                            {
+                                "name": "GameFlowStateMachine.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/GameFlow/GameFlowStateMachine.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "GameState.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/GameFlow/GameState.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "StateTransitionHandler.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/GameFlow/StateTransitionHandler.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Initialization",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Initialization",
+                        "children": [
+                            {
+                                "name": "GameInitializer.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Initialization/GameInitializer.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "InitializationResult.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Initialization/InitializationResult.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ManagerFactory.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Initialization/ManagerFactory.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "SceneReferencesProvider.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Initialization/SceneReferencesProvider.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interaction",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Interaction",
+                        "children": [
+                            {
+                                "name": "InteractionPoint.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interaction/InteractionPoint.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interfaces",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Interfaces",
+                        "children": [
+                            {
+                                "name": "IHUDView.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/IHUDView.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "IInteractable.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/IInteractable.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "IInteractionHost.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/IInteractionHost.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "IShipService.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/IShipService.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ISpawner.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/ISpawner.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ITaskRule.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/ITaskRule.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "IWorkstationView.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Interfaces/IWorkstationView.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Placement",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Placement",
+                        "children": [
+                            {
+                                "name": "PlacementZone.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Placement/PlacementZone.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Player",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Player",
+                        "children": [
+                            {
+                                "name": "PlayerController.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Player/PlayerController.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pooling",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Pooling",
+                        "children": [
+                            {
+                                "name": "ObjectPool.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Pooling/ObjectPool.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ship",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Ship",
+                        "children": [
+                            {
+                                "name": "ShipContainerSpawner.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipContainerSpawner.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipDecisionHandler.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipDecisionHandler.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipInstance.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipInstance.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipLifecycleCoordinator.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipLifecycleCoordinator.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipManager.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipMovement.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipMovement.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipState.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Ship/ShipState.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spawning",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Core/Spawning",
+                        "children": [
+                            {
+                                "name": "ContainerSpawner.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Core/Spawning/ContainerSpawner.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Data",
+                "type": "folder",
+                "path": "Assets/Scripts/Data",
+                "children": [
+                    {
+                        "name": "Generated",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Data/Generated",
+                        "children": [
+                            {
+                                "name": "ContainerData.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Generated/ContainerData.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "ShipData.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Generated/ShipData.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Data/Models",
+                        "children": [
+                            {
+                                "name": "PresentationTuning.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Models/PresentationTuning.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Records",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Data/Records",
+                        "children": [
+                            {
+                                "name": "DecisionRecord.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Records/DecisionRecord.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Structs",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Data/Structs",
+                        "children": [
+                            {
+                                "name": "ContainerFields.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Structs/ContainerFields.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "PrototypeStats.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Data/Structs/PrototypeStats.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Editor",
+                "type": "folder",
+                "path": "Assets/Scripts/Editor",
+                "children": [
+                    {
+                        "name": "DevLogWindow.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Editor/DevLogWindow.cs",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Generators",
+                "type": "folder",
+                "path": "Assets/Scripts/Generators",
+                "children": [
+                    {
+                        "name": "ContainerGenerator.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Generators/ContainerGenerator.cs",
+                        "children": []
+                    },
+                    {
+                        "name": "GenerationOrchestrator.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Generators/GenerationOrchestrator.cs",
+                        "children": []
+                    },
+                    {
+                        "name": "PlacementRuleGenerator.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Generators/PlacementRuleGenerator.cs",
+                        "children": []
+                    },
+                    {
+                        "name": "ShipGenerator.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Generators/ShipGenerator.cs",
+                        "children": []
+                    },
+                    {
+                        "name": "TaskRuleGenerator.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/Generators/TaskRuleGenerator.cs",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Managers",
+                "type": "folder",
+                "path": "Assets/Scripts/Managers",
+                "children": [
+                    {
+                        "name": "Decision",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Managers/Decision",
+                        "children": [
+                            {
+                                "name": "DecisionManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Managers/Decision/DecisionManager.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Deck",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Managers/Deck",
+                        "children": [
+                            {
+                                "name": "DeckManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Managers/Deck/DeckManager.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Presentation",
+                "type": "folder",
+                "path": "Assets/Scripts/Presentation",
+                "children": [
+                    {
+                        "name": "Factories",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Presentation/Factories",
+                        "children": [
+                            {
+                                "name": "ContainerPresentationFactory.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Presentation/Factories/ContainerPresentationFactory.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Managers",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Presentation/Managers",
+                        "children": [
+                            {
+                                "name": "ContainerPresentationManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Presentation/Managers/ContainerPresentationManager.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Presentation/Models",
+                        "children": [
+                            {
+                                "name": "ContainerPresentation.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Presentation/Models/ContainerPresentation.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Views",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Presentation/Views",
+                        "children": [
+                            {
+                                "name": "ContainerViewController.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Presentation/Views/ContainerViewController.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rules",
+                "type": "folder",
+                "path": "Assets/Scripts/Rules",
+                "children": [
+                    {
+                        "name": "Runtime",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Rules/Runtime",
+                        "children": [
+                            {
+                                "name": "CompositeRule.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Rules/Runtime/CompositeRule.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "PlacementRuleData.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Rules/Runtime/PlacementRuleData.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "RuleCondition.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Rules/Runtime/RuleCondition.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "UI",
+                "type": "folder",
+                "path": "Assets/Scripts/UI",
+                "children": [
+                    {
+                        "name": "Coordination",
+                        "type": "folder",
+                        "path": "Assets/Scripts/UI/Coordination",
+                        "children": [
+                            {
+                                "name": "GameUICoordinator.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Coordination/GameUICoordinator.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "HUDUIController.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Coordination/HUDUIController.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "WorkstationUIController.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Coordination/WorkstationUIController.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Views",
+                        "type": "folder",
+                        "path": "Assets/Scripts/UI/Views",
+                        "children": [
+                            {
+                                "name": "DevOverlayUI.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Views/DevOverlayUI.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "HUDView.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Views/HUDView.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "PrototypeUI.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/UI/Views/PrototypeUI.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "WorldSpaceUIAdapter.cs",
+                        "type": "file",
+                        "path": "Assets/Scripts/UI/WorldSpaceUIAdapter.cs",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Utilities",
+                "type": "folder",
+                "path": "Assets/Scripts/Utilities",
+                "children": [
+                    {
+                        "name": "Constants",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/Constants",
+                        "children": [
+                            {
+                                "name": "GameConstants.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Constants/GameConstants.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "UIConstants.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Constants/UIConstants.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Debug",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/Debug",
+                        "children": [
+                            {
+                                "name": "DevModeManager.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Debug/DevModeManager.cs",
+                                "children": []
+                            },
+                            {
+                                "name": "DevRunSeedOverride.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Debug/DevRunSeedOverride.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Random",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/Random",
+                        "children": [
+                            {
+                                "name": "DeterministicRng.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Random/DeterministicRng.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Time",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/Time",
+                        "children": [
+                            {
+                                "name": "DayTimer.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Time/DayTimer.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "UI",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/UI",
+                        "children": [
+                            {
+                                "name": "UIButtonHelper.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/UI/UIButtonHelper.cs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Validation",
+                        "type": "folder",
+                        "path": "Assets/Scripts/Utilities/Validation",
+                        "children": [
+                            {
+                                "name": "DeterminismValidator.cs",
+                                "type": "file",
+                                "path": "Assets/Scripts/Utilities/Validation/DeterminismValidator.cs",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

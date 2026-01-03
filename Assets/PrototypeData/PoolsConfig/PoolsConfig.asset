@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08557c066d4f806469988273d7c5d9a9, type: 3}
+  m_Name: PoolsConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Storia.Generation.PoolsConfig
+  _originPorts:
+  - Pire
+  - "\u0130zmir"
+  - Varna
+  - Trieste
+  - Marsilya
+  - "\u0130skenderun"
+  - Antalya
+  - Barcelona
+  - Napoli
+  - Odesa
+  _cargoTypes:
+  - "Makine Par\xE7as\u0131"
+  - "G\u0131da"
+  - Tekstil
+  - Kimyasal
+  - Elektronik
+  - Mobilya
+  - "\u0130n\u015Faat Malzemesi"
+  - Otomotiv
+  - "T\u0131bbi Malzeme"
+  - Kitap
+  _containerIdPrefixes:
+  - TRBU
+  - TRIS
+  - TRAN
+  - USNY
+  - GRPI
+  - ITNA
+  - ESBA
+  - FRMA
+  - BGVA
+  - UAOD
+  _shipNameTemplates:
+  - M/V {0} Star
+  - M/V {0} Pride
+  - M/V {0} Spirit
+  - M/V {0} Voyager
+  - M/V {0} Navigator
+  - M/V {0} Trader
+  - M/V {0} Express
+  - M/V {0} Discovery
+  _shipAdjectives:
+  - Aegean
+  - Mediterranean
+  - Black Sea
+  - Atlantic
+  - Pacific
+  - Golden
+  - Silver
+  - Blue
+  - Royal
+  - Imperial
+  - Eastern
+  - Western
+  _zoneNames:
+  - Zone A
+  - Zone B
+  - Zone C
